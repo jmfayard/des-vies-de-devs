@@ -33,7 +33,7 @@ And you also admit that it was an obvious trap all along ? You are a pathetic di
 
 Don't ask what you should do instead because the answer is always the same.
 
-Stop being such a pathetic looser and do like me, pull yourself by your own bootstraps, and try harder to be successfull like Elon Musk. He is richer than you, did you notice ? So just shut up. LInkedIn was damn right.
+Stop being such a pathetic looser and do like me, pull yourself by your own bootstraps, and try harder to be successfull like Elon Musk. He is richer than you, did you notice ? So just shut up. 
 
 At the point you need to take a deep breath and give this poor soul an helping hand.
 
@@ -43,10 +43,12 @@ Wait ?
 What ?
 Why is he treating me with kindness ?
 What is this emotion I am feeling right now ?
-Is it anger ? Isn't anger an emotion ?
-I thought I was a pure rational human being and that only the Female could be emotionally triggered
+Is it anger ? 
+Isn't anger an emotion ?
+I thought I was a pure rational human being and that only the Female could be emotionally triggered.
+Wait how plausible is that, given that even my dog have emotions and that they part of nature ?
 Was I mistaken all along ?
-How is that possible since I am smart in other areas unrelated to patriarchy ?
+How is that possible since I am smart in other areas ?
 Maybe the women were right about sexism in tech....
 Maybe I should do more google search and empathy and listening
 Shit, it hurts
@@ -68,21 +70,21 @@ To understand it, you need to accept the assumption "Monopoly is Bad".
 If you are Peter Thiel and you think, not at all, it's good for society because it make people like me rich and powerful, fine with me, but there is no point in reading this further.
 ## Long story short
 
-- I have a personal trauma deeply related to Tech Hiring being Imperfect since 2007
+- I have a personal trauma deeply related to Tech Hiring being Somewhat Not Good since 2007
 - Therefore I have lots of content about this, I have spoken with lots of people about it
 - But since overcoming personal trauma is not that simple, it is not until August 2023 that I decided to publish it in the most open way possible.
-- I decided to publish it on LinkedIn because at that time it was the only place where it made sense to me
+- I decided to publish it on LinkedIn because at that time it was the only place where it made sense to get visibility for me
 - To be transparent, I that time I already thought LinkedIn was mostly useless to find a developer job or to recruit a developer for a company
 - But I cared more about overcoming my personal trauma and transforming it into something positive
 - I was relieved when it finally happened, and that it strucked a chord with many people
-- Right after I did that, LinkedIn just decided to do censorhip against me at the worst possible time for the worst possible reason in the worst possible way
+- Right after I did that, LinkedIn just decided to do censorhip against me at the worst possible way for the worst possible reason in the worst possible way
 - I was absolutely shattered to my core
 - Thanks god I had lots of support around me during this absolutely hellish period
 - When I finally recovered, I decided to go full balistic because of course I had to, what the hell ?
 - I then decided to devise the most obvious trap ever whatever it takes
 - I was absolutely certain they would fall for it
 
-So how did this very long experiment on this dirty platform went on ?
+So, was what this little experiment of mine ?
 
 Since you have accepted my promise "Monopoly = Bad", you will see, it's very obvious.
 ## Microsoft LinkedIn Tried to Censor Open Source Content On The Internet
@@ -92,7 +94,8 @@ The plan was pretty simple :
 
 - Monopoly = Bad, therefore most devs dislike LinkedIn
 - Monopoly = Bad, and the internet, devs and open source absolutely hate it
-- Monopoly = Bad, meaning people get stupid with time
+- Monopoly = Bad, meaning it mostly cares about preserving itself
+- Monopoly = Bad, therefore thing get stupider with time
 - Monopoly = Bad, therefore if I announce clearly that I will put my content as open source on the internet, they would not understand the trap, and falled for it. 
 
 Was I right ? Of course I was.
@@ -103,7 +106,7 @@ You can contribute to it here like you usually do.
 
 Since it is open source, I also put it here, put it on my website.
 
-You are free to publish it on LinkedIn, who definitely doesn't censor content that doesn't suit its purpose
+You are free to publish it on LinkedIn, who definitely doesn't censor content that doesn't suit its purpose but if you want to try for yourself please do it.
 
 You are free to publish on X.com ex Twitter, since Elon Musk is a big warrior of Freedom of Speech.
 
@@ -115,11 +118,11 @@ One more thing, there is a deep irony here
 
 ## Microsoft
 
-When I was young, I was immature, believe it or not, and I thought that Microsoft was full of crap.
-There were lonely voices like Joel Spolsky who tried to warn me than no, Microsoft was in fact a top tier company.
+When I was young, I was immature, believe it or not, and I thought that Microsoft was full of bullshit.
+There were lonely voices like Joel Spolsky who tried to warn people like me that no, Microsoft was in fact a top tier tech company.
 Granted, many things were not optimal back then.
 As it turns out, building a whole operating system with all its components is very hard.
-And with the benefits of the hinsight, no shit sherlock.
+And with the benefits of that hinsight, no shit sherlock.
 But time passed, and we all moved on.
 
 🪤🪤🪤🪤🪤
@@ -148,7 +151,7 @@ Ever heard of Microsoft Internet Explorer vs The European Union ?
 Thanks LinkedIn
 
 Wait, but there is more.
-## Nobody Can Do a Better Job at Fixing Job Hunting than Microsoft 
+## Nobody Can Do a Better Job at Fixing Tech Hiring than Microsoft 
 
 How do I know that ?
 
