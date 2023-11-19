@@ -1,0 +1,9 @@
+# Logs
+*.log
+.idea
+.DS_Store
+public/
+.cache
+site/
+.obsidian/
+
