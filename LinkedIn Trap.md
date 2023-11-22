@@ -1,4 +1,18 @@
+## My initial title
 
+The initial title of my article was :
+
+_Post-mortem : How I Trapped LinkedIn and Why Microsoft Will Replace It With Something Better_
+
+When you read "the trap" in the context of this article, it meant that I knew with 100% absolute certainty that I could get LinkedIn to do censorship against me. I knew that they would do it in a very dumb way, that would be a bad look for them. And that I was expecting that moment with great pleasure to publish my article
+
+But I'm out of social media, I need to get this out, and I so much don't care about them right now, that let's do just it.
+
+## [](https://dev.to/jmfayard/microsoft-linkedin-is-broken-and-why-microsoft-will-replace-it-with-something-better-19jp#my-real-thesis-now)My real thesis now
+
+> Microsoft LinkedIn is a Bad Way To Get a Tech Job Or Hire a Dev And You Don't Need It And There Are Multiple Better Ways.
+
+I know, this is a lot to take. We all know that devs love LinkedIn. And it's a huge 12 years long story for me, but we have to start somewhere.
 # Post-mortem : How I Trapped LinkedIn and Why Microsoft Will Replace It With Something Better
 
 As it turns out, censuring open source content on the internet is very hard.
