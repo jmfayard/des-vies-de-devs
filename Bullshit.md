@@ -8,7 +8,8 @@ J'ai une carrière de 15 ans de dev derrière moi.
 J'ai commencé comme consultant costard cravate dans une méga ESN,  
 Heureusement je me suis expatrié à Berlin où ma carrière a enfin décollé.  
 J'ai été dev front, Android, ensuite principalement backend, senior, team lead.  
-  
+
+
 Tu es dev, freelance et/ou cdi ?  
 Tu penses avoir le niveau technique pour faire le travail que tu aimerais faire ?  
   
