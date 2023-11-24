@@ -1,6 +1,6 @@
 Linkedin c’est naze, contactez moi par e-mail directement  
-[jmfayard@gmail.com](mailto:jmfayard@gmail.com)  
-  
+jean-michel@goodrecruiter.eu
+
 Une des caractéristiques les plus frappantes des processus de recrutement de devs,  
 …c'est qu'il y a énormément de bullshit 🤦‍♀️  
   

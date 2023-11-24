@@ -163,4 +163,4 @@ And more generally on dev careers.
 
 ## That was my attempt at pitching the weird stuff I'm currently doing.
 
-👉🏻 Tell me what you think here or by email at jmfayard@gmail.com
+👉🏻 Tell me what you think here or by email at jean-michel@goodrecruiter.eu 

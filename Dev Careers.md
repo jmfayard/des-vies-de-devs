@@ -6,7 +6,7 @@ I find it infuriating when talented developers couldn't find the companies that 
 
 I think I can help you in your careers, for that the first step would be to drop me an email
 
->  jmfayard@gmail.com
+>  jean-michel@goodrecruiter.eu 
 
 But if you are too shy to send an email, here are the best resources I could find on careers stuff, they are the ones I am using personally.
 
