@@ -1,4 +1,4 @@
-Facebook is a global catastrophe for mental health. cc [](https://www.linkedin.com/in/ACoAABOJoc4B6q7gwQahwfP2qD29jnmMJNIssPo)[Nina Ramen 🍓](https://www.linkedin.com/in/nina-ramen-copywriter/)  
+Facebook is a global catastrophe for mental health. 
   
 Here are some findings of the effect it has on the most vulnerable of us  
   
@@ -24,3 +24,7 @@ Here are some findings of the effect it has on the most vulnerable of us
 "High levels of Facebook use could result in Facebook-related conflict and breakup/divorce"*  
   
 I could go on but that should be enough, here are the references
+
+https://en.wikipedia.org/wiki/Criticism_of_Facebook
+
+![](https://i.imgur.com/43DUXak.png)
