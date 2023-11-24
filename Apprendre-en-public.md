@@ -1,3 +1,5 @@
+_My career-related content is now [open-source on GitHub](https://github.com/jmfayard/agentdouble.dev)_.
+
 ✍🏻 Je continue avec ma série sur l'[L'École du Recrutement](https://www.linkedin.com/company/lecoledurecrutement/) parce que mon épisode précédent a été bien reçu, ce à quoi je ne m'attendais pas forcément, et ça m'a donné un angle pour écrire sur LinkedIn: 📚 **apprendre en public** 📚 .  
   
 🥱 7k impressions sur mon billet précédent  

@@ -1,3 +1,4 @@
+_My career-related content is now [open-source on GitHub](https://github.com/jmfayard/agentdouble.dev)_.
 # 🙆‍♀️ Careers Resources For Developers 
 
 👋🏻 I'm Jean-Michel. I have been a developer for almost 15 years, and now I'm agent for developer careers.

@@ -1,3 +1,7 @@
+_My career-related content is now [open-source on GitHub](https://github.com/jmfayard/agentdouble.dev)_.
+
+## 100 chiennes dalmatiennes plus un chien dalmatien...
+
 🇫🇷 100 chiennes dalmatiennes PLUS un chien dalmatien,  
 🐶 Cela fait 101 chiens dalmatiens ou 101 chiennes dalmatiennes ?  
 🤔 On connait tous LA règle pas du tout sexiste, mais QUI a voté cette règle, QUAND et POURQUOI ?  

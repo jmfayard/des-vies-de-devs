@@ -1,3 +1,5 @@
+_My career-related content is now [open-source on GitHub](https://github.com/jmfayard/agentdouble.dev)_.
+
 Préjugé insupportable : « Ah mais les "diplômés" de bootcamp, ils pensent avoir tout appris en 3 mois et ont la prétention de demander un salaire de 70k »  
   
 Je ne sais pas combien de fois j'ai entendu cet argument injuste qui m'inspire 4 remarques.  

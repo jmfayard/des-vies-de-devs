@@ -1,3 +1,5 @@
+_My career-related content is now [open-source on GitHub](https://github.com/jmfayard/agentdouble.dev)_.
+
 🤦🏻 « BRAINTEASERS ARE A COMPLETE WASTE OF TIME. How many golf balls can you fit into an airplane? How many gas stations in Manhattan? A complete waste of time. They don’t predict anything. They serve primarily to make the interviewer feel smart. »  
   
 Ce constat sans appel est de Lazlo Block, ancien senior vice presdent of people operations chez Google.  

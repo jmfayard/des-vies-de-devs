@@ -1,4 +1,6 @@
-Facebook is a global catastrophe for mental health. 
+# Facebook is a global catastrophe for mental health. 
+_My career-related content is now [open-source on GitHub](https://github.com/jmfayard/agentdouble.dev)_.
+
   
 Here are some findings of the effect it has on the most vulnerable of us  
   
@@ -26,5 +28,6 @@ Here are some findings of the effect it has on the most vulnerable of us
 I could go on but that should be enough, here are the references
 
 https://en.wikipedia.org/wiki/Criticism_of_Facebook
+
 
 ![](https://i.imgur.com/43DUXak.png)

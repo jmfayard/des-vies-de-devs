@@ -1,5 +1,4 @@
-Linkedin c’est naze, contactez moi par e-mail directement  
-jean-michel@goodrecruiter.eu
+_My career-related content is now [open-source on GitHub](https://github.com/jmfayard/agentdouble.dev)_.
 
 Une des caractéristiques les plus frappantes des processus de recrutement de devs,  
 …c'est qu'il y a énormément de bullshit 🤦‍♀️  

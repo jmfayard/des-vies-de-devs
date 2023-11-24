@@ -1,3 +1,5 @@
+_My career-related content is now [open-source on GitHub](https://github.com/jmfayard/agentdouble.dev)_.
+
 Nevertheless, Ali Coded  
   
 Trigger Warning: graphic sexual content, racism, sexual harassment  

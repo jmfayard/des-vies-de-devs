@@ -1,3 +1,5 @@
+_My career-related content is now [open-source on GitHub](https://github.com/jmfayard/agentdouble.dev)_.
+
 « C'est quoi un beau CV ?»  
 Cela n'existe pas !  
 C'est d'ailleurs pour cela que tout le monde a des injonctions contradictoires...  
