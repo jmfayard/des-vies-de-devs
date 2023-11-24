@@ -18,5 +18,6 @@ Considère chaque entretien comme un entraînement pour le prochain où tu feras
   
 Cette fois tu as réussi à parler de toi mais tu étais mal à l'aise dans la négociation salariale ?  
 Note ton succès dans ton journal, et mets "négociation salariale" dans la liste des thémes à bosser.  
-  
+
+
 « I never loose. I either win or learn. »
