@@ -1,21 +1,27 @@
-# Tech Hiring is Broken, and We Shall Improve It Somewhat.
+# We Shall Improve Hiring Somewhat
 
 Hello, I'm Jean-Michel Fayard aka agent double and I think that we shall improve tech hiring and job hunting somewhat.
 
 ## Why ?
 
-For a very long time, I have observed that there are lots of things that are suboptimal in the way tech companies hire and vice versa.
+Lots of questions have been a ghost in my head for a very long time related to developer careers. 
 
-Pretty much agree that there lots of bad practices.
-I have talked with many people and discovered that better practices exist.
-Now, the issue is that they typically requires time and efforts and make sense only in a given context.
-At the same time, bad practices spread like a virus. Asking brain teaser requires no effort whatsoever, and it helps the interviewer feel smart.
+- Why do dev with skills and companies who needs those skills have such a hard time finding each other ?
+- Why do we hear from all parts that everyone should code, while at the same time finding the first developer job is so difficult ?
+- Why do developers dread job hunting if it's true that our skills are in high demand ?
+- Why is imposter syndrome poisoning so many of us ?
+- Why do devs talks about hiring processes at HypeStartups like if it was the labours of Hercules ?
+- Why did Google, the dream company of my youth, thought for so long that making the ability to answer brain teasers an hiring criteria was a good idea ?
+- Why do devs accept to spend their weekends on taking home challenges ?
+- Why are salary negociations the way they are ?
+- Why ghosting ?
+- Why do some people lash out in anger every time we suggest that a job interview at a given company went poorly ?
+- Why are we told to use LinkedIn which is obviously bad at the job at the job it's supposed to do ?
+- Why do company focus on finding good candidates and not good developers ?
 
-Therefore bad practices are naturally more viral than good practices, and that's an issue.
+And more importantly. 
 
-I think we should also do something about it, because we have a skin in the game : 
-
-It's our job, our careers, even our lives.
+How can we FIX IT ?
 
 ## What  ?
 
