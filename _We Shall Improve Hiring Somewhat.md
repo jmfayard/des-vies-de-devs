@@ -5,6 +5,7 @@ At no point in time was I ready to live through the many sharps ups and especial
 Lots of questions have been a ghost in my head for a very long time related to developer careers. 
 
 - Why do dev with skills and companies who needs those skills have such a hard time finding each other ?
+- Why does job hunting feels like we are students applying for college and not professionals finding out whether it makes sense to work together ?
 - Why do we hear from all parts that everyone should code, while at the same time finding the first developer job is so difficult ?
 - Why do developers dread job hunting if it's true that our skills are in high demand ?
 - Why is imposter syndrome poisoning so many of us ?
@@ -122,38 +123,6 @@ But for me, oh boy, Rachmaninov's concerto is so much more than that. It is the 
 
 {% embed https://www.youtube.com/watch?v=caR7C2SHdFI %}
 
-## 🇩🇪 Du bist verrückt mein Kind, kommm nach Berlin !
-
-The only reason I got back to programming is that  I moved to Berlin at the end 2014.
-I needed to leave all that bad experiences behind me.
-Since that was a huge challenge in itself, I came back to my original job. 
-
-That was the best decision of my life. I have so much good memories there. 
-Oh well depression is a bitch, and I got depressed 3 times more.
-But in between I had finally happy times.
-
-And that redemption was correlated with meeting people who were hiring in a way that I had not experienced before. 
-
-A recruiter who told me for the first time in my life
-*I have a number of clients, so I prefer to understand you first. What would you liked to do ideally ?*
-
-A CEO who understood that he needed to hire good developers and not good candidates.
-
-A colleague who understood that it was more rational to evaluate developers by having a look at what they put on GitHub.
-
-Another recruiter who told me that her favorite interview question was 
-
-*I have your CV, I've read it, and don't worry, we will talk about if*.
-*But first I want to ask you something* : 
-*Is there something that is NOT in your CV, but that you would like to share with me, because that shaped who you are as a person today ?*
-
-A CTO that hired me over a phone call and a lunch at my favorite japanese restaurant.
-
-Another CTO later who hired me via a tweet followed by a café discussion that went so well that we both knew at then end of it that the match was there already. 
-
-It sounded like we could have simpler things. It worked better. Things started to make sense again. 
-
-But what happened before then ?
 ## Writing as self therapy
 
 Contrary to an harmful sexist myth, therapy is not for the weaks.
@@ -185,11 +154,18 @@ This one was important to me, because I had a love-hate relationship with Androi
 {% embed  https://dev.to/jmfayard/android-s-billion-dollar-mistake-327b %}
 
 But then my writing took a completely different direction. I got back to the roots of what went wrong at the start of my career.
-## Hiring Is Broken and isn't Worth Fixing
 
 This started when I wrote that developers, men and even more women, get treated unfairly during salary negociations. 
 
 {% embed https://dev.to/jmfayard/what-is-your-current-salary-is-a-red-flag-that-you-don-t-want-to-work-here-3aji %}
+
+I was absolutely terrified when I posted this article, the first of a long list about developer careers that is not going to end soon. I as way outside of my comfort zone. Both on the subject matter and whether I could write on this on DEV. I was overwhelmed with joy when I saw the response. 
+
+Apart from a few very intelligent people lashing out in anger, keep that in mind for later.
+
+## Hiring Is Broken and isn't Worth Fixing
+
+I became obsessed with hiring in tech, and developer careers in general. 
 
 Because at that point I understood intuitively that the secret to overcome my trauma was to fight back against what was the cause of that trauma. I decided that the fight of my life would be against bad hiring practices.
 
@@ -209,46 +185,54 @@ Facts over feelings : Google is bad at hiring.
 
 This topic became my mantra. 
 But there was a big obstacle.
-## Sexism is real
 
-I also wrote for others about where their own sense of self doubt come from, so they can escape it sooner.
+## 🇩🇪 Meanwhile in Berlin
 
-{% embed https://dev.to/jmfayard/the-real-imposter-is-the-inner-judge-3e01 %}
+The only reason I got back to programming is that  I moved to Berlin at the end 2014.
+I needed to leave all that bad experiences behind me.
+Since that was a huge challenge in itself, I came back to my original job. 
 
-When I wrote that article above, it was meant as a follow up from this beautiful article from Ali Splittel.
+That was the best decision of my life. I have so much good memories there. 
+Oh well depression is a bitch, and I got depressed 3 times more and that was hell.
+But in between I had finally happy times.
 
-{% embed https://dev.to/aspittel/managing-imposter-syndrome-4a30 %}
+And that redemption was correlated with meeting people who were hiring in a way that I had not experienced before. 
 
-There are many good writers here, but Ali Splittel in particular impressed me when I started writing. She wrote so well, gave solid advice, on a range of articles. What an absolute pearl of a pedagogue. 
+A recruiter who told me for the first time in my life
+*I have a number of clients, so I prefer to understand you first. What would you liked to do ideally ?*
 
-Then I wonder how did she learn all those things about imposter syndrome. Personal experience. Oops. 
-But how could it be given how obviously talented she is ? 
+A CEO who understood that he needed to hire good developers and not good candidates.
 
-DEV had the great idea to encourage female devs to talk at the same time about their stories.
+A colleague who understood that it was more rational to evaluate developers by having a look at what they put on GitHub.
 
-{% tag shecoded %}
+Another recruiter who told me that her favorite interview question was 
 
-And here things started to be ugly. I have my theory that some toxic tech bros were a big part of the imposter syndrome.
+*I have your CV, I've read it, and don't worry, we will talk about if*.
+*But first I want to ask you something* : 
+*Is there something that is NOT in your CV, but that you would like to share with me, because that shaped who you are as a person today ?*
 
-{% embed https://dev.to/aspittel/nevertheless-ali-coded-4id0 %}
+A CTO that hired me over a phone call and a lunch at my favorite japanese restaurant.
 
-And then I noticed something later when I started to write about how hiring was not working perfectly. 
+Another CTO later who hired me via a tweet followed by a café discussion that went so well that we both knew at then end of it that the match was there already. 
 
-The same tech bros, who think so highly of themselves as hard working, intelligent people devoid of emotions were lashing out in anger at me and everyone else who dared to challenge the satatus-quo.
+It sounded like we could have simpler things. It worked better. Things started to make sense again. 
 
-Those people are not stupid, so I don't despair. 
+But what hits me the hardest was this one time when I wanted to do freelancing and hard to decide for the first time what my hourly rate was going to be. 
 
-I have a dream, that one day, they will learn to listen to the stories of women who code. 
+- Hey, I have an opportunity to work at $FamousGermanCompany but they want to hire me as a freelancer and I have no idea what my hourly rate. 
+- Tell me
+- Do you think $THIS is too much ?
+- It's not enough, $famousGermanCompany has the money, you should ask $SignificantlyMore
+- Wait, I can do that ?
 
-Using the internet is not that hard, you can do it bro, start here for stories of great inspiration.
+And then this person, who had worked with me, whom I respected deeply, answered as if it was a self-evident truth
+- Of course, you are a good engineer.
 
-https://dev.to/t/shecoded/top/infinity
+I almost cried.
 
-I thought I was a feminist was I was young, but I was not, not really. I was shaped by my education, like everyone else. I didn't, I couldn't walk the talk. But I got much better at it, and I have to thank those absolute dumb asses for that. 
+It was not about the money. Don't get me wrong, I like the idea of having more money like everyone else. But it was more than that.
 
-{% embed https://dev.to/jmfayard/how-do-judo-mansplaining-471g %}
-
-It's all linked together. And today, when they describe me as an hysterical feminazi, I welcome their hatred.
+I was 37 and I was finally done with all that self doubt.
 
 ## Developer careers
 
@@ -263,6 +247,54 @@ In general, I wanted people to have a better career much faster than I had. Proc
 Other dumb things I struggled with is that I had that toxic idea that there was "smart" and "dumb" questions, and that you somehow needed to be super qualified and prove your worth before you were allowed to ask a question. Jesus, no, the only dumb way to ask a question is to ask it only to the wrong person, or to not ask it at all. Ask, just ask.
 
 {% embed https://dev.to/jmfayard/asking-questions-is-always-smart-19mj %}
+
+
+## Sexism is real
+
+With all that back story in mind, you understand tat when I wrote that article about imposter syndrome, I was writing is first and foremost for younger me.
+
+{% embed https://dev.to/jmfayard/the-real-imposter-is-the-inner-judge-3e01 %}
+
+But I was also writing this article remembering about Ali Splittel who wrote this, years earlier.
+
+{% embed https://dev.to/aspittel/managing-imposter-syndrome-4a30 %}
+
+There are many good writers here, but Ali Splittel in particular impressed me when I started writing. She wrote on a range of careers-related topics, gave solid advice, wrote so well. 
+
+What an absolute pearl of a pedagogue. 
+
+Then I wonder how did she learn all those things about imposter syndrome. Personal experience like me. Oh no. This shit again.
+
+But while my painfully slow career start was a clear responsible for my self doubt, how could *she* possibly have imposter syndrome, given how obviously talented she was ?
+
+In 2019 and 2020, DEV.to had the great idea to encourage women who code to talk about their personal stories. You can still find all kind of inspirational stories right here :
+
+{% tag shecoded %}
+
+But here things started also to be ugly. 
+
+I have my theory that some toxic tech bros were a big part of Ali's imposter syndrome. See here in 2019.
+
+{% embed https://dev.to/aspittel/nevertheless-ali-coded-4id0 %}
+
+In case you wonder, it didn't stop in 2020.
+
+{% embed https://dev.to/aspittel/nevertheless-ali-coded-e2h %}
+
+Remember when I told you earlier that a tiny but toxic minority was upset ? 
+
+I could feel they were people who self-identify as hard working, intelligent people devoid of emotions. And they were lashing out in anger that we dared to have a rational discussion about how we shall improve things somewhat.
+
+It's all connected and it's very stupid. Text-book sexist education. Emotions, except anger, are for the women and for the weaks. Just Work Harder and become a Real Man like Elon Musk. 
+
+I have a dream, that one day, those people will learn to listen and think for themselves.
+
+For the record, it's not easy but it's simple. It mainly consists in learning to become comfortable to shut up for a while when someone tries to say something important.
+
+I thought I was a feminist was I was young, but I was not, not really. I was shaped by my education, like everyone else. I didn't, I couldn't walk the talk. But I got much better at it.
+
+It's all linked together. And today, when they describe me as an hysterical feminazi, I welcome their hatred.
+
 ## We Should Push Back Against Bad Practices
 
 I went back to Job Hunting per se, because that's the core of what sucked for me. It took me an awful long time to understand that hiring is a two way process. We must not be passive obedient candidates who just submit a CV and hope for the best. I try to summarize my toughts in this unclear long article that was written mostly for me. 
