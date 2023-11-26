@@ -1,5 +1,7 @@
 # WHY ALL REAL FRONT-END DEVELOPERS SHOULD REWRITE EVERYTHING IN RUST IN 2024
 
+_If you don't understand, watch the video at the end, and rewind from there_
+
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--GGrwnTY5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ezcnpoar2kbmczujyi1m.png)
 
  _My career-related content is now [open-source on GitHub](https://github.com/jmfayard/agentdouble.dev)_.

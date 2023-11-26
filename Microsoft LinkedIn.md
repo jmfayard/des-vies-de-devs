@@ -1,5 +1,6 @@
-# Why LinkedIn is Broken and Why Microsoft Will Replace it With Something Better
 _My career-related content is now [open-source on GitHub](https://github.com/jmfayard/agentdouble.dev)_.
+# Why LinkedIn is Broken and Why Microsoft Will Replace it With Something Better
+
  
 As it turns out, censuring open source content on the internet is very hard.
 
