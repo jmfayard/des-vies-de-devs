@@ -375,3 +375,5 @@ You can read it via  https://jmfayard.dev
 I don't know, predictions are hard when they are about the future.
 
 But I'm at peace, at least, a very long last.
+
+I've found meaning.

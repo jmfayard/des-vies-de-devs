@@ -1,42 +1,48 @@
 # We Shall Improve Hiring Somewhat
 
-Hello, I'm Jean-Michel Fayard aka agent double and I think that we shall improve tech hiring and job hunting somewhat.
+Becoming a good developer is like becoming a pianist. It's fun and good and rewarding. It's also an awful lots of learning and tedious practice. It is inherently hard.
+
+But, if you want make that your career, why is "everything else" so difficult ?
 
 ## Why ?
 
-Lots of questions have been a ghost in my head for a very long time related to developer careers. 
+Below are some of the questions that have been living rent-free in my head for more than a decade.
 
-- Why do dev with skills and companies who needs those skills have such a hard time finding each other ?
-- Why do we hear from all parts that everyone should code, while at the same time finding the first developer job is so difficult ?
+- Why do developers with skills and companies who needs those skills have such a hard time finding each other ?
+- Why does job hunting feel like we are students applying for college and not professionals finding out whether it makes sense to work together ?
+- Why do we hear all the time that everyone should learn to code, when in reality it's better to do it if you are a young college-educated english-speaking male ?
 - Why do developers dread job hunting if it's true that our skills are in high demand ?
 - Why is imposter syndrome poisoning so many of us ?
-- Why do devs talks about hiring processes at HypeStartups like if it was the labours of Hercules ?
-- Why did Google, the dream company of my youth, thought for so long that making the ability to answer brain teasers an hiring criteria was a good idea ?
-- Why do devs accept to spend their weekends on taking home challenges ?
-- Why are salary negociations the way they are ?
+- Why do devs talk about hiring processes at HypeStartups like if it was the 12 Labours of Hercules ?
+- Why did Google, the dream company of my youth, decide that a good hiring criteria would the ability to answer brain teasers ?
+- Why do devs accept to spend their nights and weekends on taking home challenges ?
+- Why are salary negotiations the way they are ?
 - Why ghosting ?
+- Why are we told to use LinkedIn which is bad at its supposed job ?
 - Why do some people lash out in anger every time we suggest that a job interview at a given company went poorly ?
-- Why are we told to use LinkedIn which is obviously bad at the job at the job it's supposed to do ?
-- Why do company focus on finding good candidates and not good developers ?
+- Why do companies focus on finding good candidates and not good developers ?
 
-And more importantly. 
+## Who am I ?
 
-How can we FIX IT ?
+I tell my story here
+https://dev.to/jmfayard/we-shall-improve-hiring-somewhat
 
-## What  ?
+## How can we FIX IT ?
 
-I have decided to do something about it, and after talking with many many people over the year, I have decided to share what I have learned so far in public.
+That's a great question, thanks.
 
+For my part, I have decided to do something about it, and after talking with many many people over the year, I have decided to share what I have learned so far in public.
 
 In order to help better practices spread, I have decided to Open Source and centralise all my content here.
 
-## Caveat
-
-The ["I am very intelligent" people](https://knowyourmeme.com/memes/we-should-improve-society-somewhat)" will point out I'm a big hypocrite because I also plan to make money from it. And you know what ? They are right. And I don't care anymore about them, they are part of the problem and I want to be part of the solution.
-
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/jmfayard/we-shall-improve-hiring-somehwat">We Shall Improve Hiring Somewhat</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://jmfayard.dev/">Jean-Michel Fayard</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
 # FAQ
 
-Who I am ? Jean-Michel, l'agent double
+This repository is in an early stage of chaos.
+
+So any kind of feedback is welcome.
+
+Who I am ? Jean-Michel Fayard, aka jmfayard, aka l'agent double.
 
 What is this ? My career related content
 
@@ -46,36 +52,17 @@ Languages accepted : English and French, and more when necessary.
 
 How to contribute : whatever makes sense, submit a PR, send me an email
 
-Where to find the website online: https://agentdouble.dev/
+Where to find the website online: https://jmfayard.dev
 
-## Feedback needed
+Find me on GitHub https://github.com/jmfayard/we-shall-improve-hiring-somehwat
 
-This repository is in an early stage of chaos.
+## Thanks for your attention
 
-So any kind of feedback is welcome.
+Please do something great with your developer career.
 
-I'm retrieving the content from those sources
-- LinkedIn (already done)
-- https://dev.to/jmfayard/ 
-- https://jeanmichelfayard.substack.com/
-
-My content is open sourced here
-https://github.com/jmfayard/agentdouble.dev
-
-It is published currently at this address
-https://publish.obsidian.md/agentdouble
-
-The goal is to publish it at https://agentdouble.dev/
-
-I will also have a newsletter with either [substack or ghost](https://ghost.org/vs/substack/), similar to my current blog
-https://jeanmichelfayard.substack.com/
-
-Thanks for your attention
-
-Please be happy.
+I answer to all emails at  jmfayard@gmail.com
 
 Jean-Michel
-jean-michel@agentdouble.dev
 
 
 
