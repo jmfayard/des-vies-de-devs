@@ -1,3 +1,12 @@
+---
+publish: true
+image: https://share.cleanshot.com/5Ps4ggYv+
+permalink: fix-it
+aliases: 
+description: Why do developers with skills and companies who needs those skills have such a hard time finding each other ?
+---
+# We Shall Improve Hiring Somewhat
+
 At no point in time was I ready to live through the many sharp ups and downs of this 12-year-long Odyssey of mine.
 
 ## Why ?
