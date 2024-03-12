@@ -18,13 +18,10 @@ J'ai écrit des dizaines et des dizaines d'articles sur le sujet, et si vous vou
 
 👉🏻  [We Shall Improve Hiring Somewhat](https://dev.to/jmfayard/we-shall-improve-hiring-somewhat-1ip2) 
 
-## Work In Progress
 
-Il y a très peu de transparence dans le secteur du recrutement.
-Suivant l'exemple courageux de TODO et de Shirley Almosni je me lance sur GitHub pour aller à l'encontre.
+Je viens sur GitHub parce qu'il y a très peu de transparence dans le secteur du recrutement.
 
-A terme vous pouvez vous attendre à avoir
-- mes contenus bien rangés dans ces dossiers
-- les offres d'emploi que j'ai dans les issues
-- les descriptions des personnes que j'accompagne en tant qu'agent de carrière dans les issues
+Je sais pas vous, mais moi je préfère Microsoft GitHub à Microsoft LinkedIn !
+
+Merci à  _TODO recruteuse PHP_ et de [Shirley Almosni](https://github.com/AlmosniShirley/JobsBuildRH) d'avoir montré l'exemple.
 
