@@ -18,6 +18,7 @@ body:
     id: tldr
     attributes:
       label: Too Long Didn't Read
+      description: Voir l'exemple sur https://github.com/jmfayard/agent-de-devs/issues/10
       placeholder: >
         - Qui? Jean-Michel Fayard
         - Salaire: 65k€
@@ -29,16 +30,6 @@ body:
         - Contrat: CDI ou Freelance
     validations:
       required: true
-
-
-  - type: input
-    id: nom
-    attributes:
-      label: Nom
-      placeholder: John Doe
-    validations:
-      required: true
-
   - type: textarea
     attributes:
       label: Ce qui me repousse chez une boîte
