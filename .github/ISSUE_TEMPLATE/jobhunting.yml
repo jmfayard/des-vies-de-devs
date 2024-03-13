@@ -6,6 +6,7 @@ body:
     attributes:
       value: >
         ## Quésako ?
+            
         Le premier rôle de cette issue est de définir votre projet professionel sous un format qui soit très clair pour les recruteurs
         en répondant à l'avance aux principales questions qu'ils se posent pour se voir si ça vaut le coup ou pas de vous contacter
         et le cas échéant de leur permettre de réserver un créneau sur votre cal.com
@@ -57,3 +58,14 @@ body:
     validations:
       required: true
 
+  - type: markdown
+    attributes:
+      value: >
+        ## Avant de partir vérifier que...
+
+        Le titre de l'issue fournit une information complète
+        _Jean-Michel recherche une offre de team lead / Dev backend java kotlin / Paris Berlin Fullremote _
+
+        Vous vous êtes connecté avec moi sur LinkedIn
+        Vous avez rejoint la communauté Des Vies De Devs
+        Voir les liens sur https://github.com/jmfayard/agent-de-devs/issues/new/choose
