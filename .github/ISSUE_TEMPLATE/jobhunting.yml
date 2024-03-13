@@ -2,6 +2,16 @@ name: Visibility Boost
 description: Let's define your career project and share it with the world
 labels: ["job-hunting"]
 body:
+  - type: markdown
+    attributes:
+      value: >
+        Le premier rôle de cette issue est de définir votre projet professionel sous un format qui soit très clair pour les recruteurs
+        en répondant à l'avance aux principales questions qu'ils se posent pour se voir si ça vaut le coup ou pas de vous contacter
+        et le cas échéant de leur permettre de réserver un créneau sur votre cal.com
+
+        Le second rôle est de fournir une URL centralisée qu'on puisse facilement partager sur LinkedIn / Twitter / les communautés de recruteurs
+
+        Et le tout dans la plus grande transparence !!    
   - type: input
     id: nom
     attributes:
@@ -9,16 +19,6 @@ body:
       placeholder: John Doe
     validations:
       required: true
-
-
-  - type: markdown
-    attributes:
-      value: >
-        Before creating a **bug report**, please check the following:
-          * Ensure you're running the latest version release.
-          * Ensure there isn't an existing issue for your bug. If there is, leave a comment on the existing issue.
-
-        If you're unsure whether you've hit a bug, check out the #react-native channel in our [Slack Community](https://community.infinite.red).
 
   - type: textarea
     attributes:
