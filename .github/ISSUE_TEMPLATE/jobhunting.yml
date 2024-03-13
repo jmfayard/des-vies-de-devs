@@ -19,14 +19,14 @@ body:
     attributes:
       label: Too Long Didn't Read
       placeholder: >
-        Qui? Jean-Michel Fayard
-        Salaire: 65k€
-        Role: Team Lead + Backend Engineer + Agent de développeurs
-        Stack: Spécialiste Java/Kotlin mais ouvert à TypeScript / C# / ...
-        Formation: Diplôme ingénieur Ensimag + Erasmus Karlsruhe en Allemagne
-        Location: Paris, Tours, Berlin, Full Remote
-        Dispo: Immédiate
-        Contrat: CDI ou Freelance
+        - Qui? Jean-Michel Fayard
+        - Salaire: 65k€
+        - Role: Team Lead + Backend Engineer + Agent de développeurs
+        - Stack: Spécialiste Java/Kotlin mais ouvert à TypeScript / C# / ...
+        - Formation: Diplôme ingénieur Ensimag + Erasmus Karlsruhe en Allemagne
+        - Location: Paris, Tours, Berlin, Full Remote
+        - Dispo: Immédiate
+        - Contrat: CDI ou Freelance
     validations:
       required: true
 
