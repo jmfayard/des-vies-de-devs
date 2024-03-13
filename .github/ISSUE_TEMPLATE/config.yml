@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Discussions
-    url: https://github.com/infinitered/ignite/discussions
+  - name: Ask me anything me on LinkedIn
+    url: https://www.linkedin.com/in/jmfayard/
     about: For questions and discussion about ignite
-  - name: Slack Community
-    url: https://community.infinite.red/
-    about: Check out our community for more real-time discussion
-  - name: Twitter Community
-    url: https://twitter.com/i/communities/1509407040095068166
-    about: We post news, tips, requests for help, and other discussions.
+  - name: Career ressources for developers
+    url: https://jmfayard.dev/
+    about: My substack
+  - name: Des Vies De Devs
+    url: https://discord.gg/rNTupfnY
+    about: Discord Community where we post news, tips, requests for help, and other discussions.
