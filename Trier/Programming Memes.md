@@ -1,14 +1,8 @@
 # Memes
 
-
-
-## Backend devs doing CSS
-https://9gag.com/gag/a57nn2r
-
-
 ## It's practice
 
-![[Pasted image 20230809171954.png]]
+<img src="https://share.cleanshot.com/VM8SWgpS+" height="600">
 ## It works. Why?
 
 ![](https://pbs.twimg.com/media/DKAT7rLVoAAaqdV.jpg)
